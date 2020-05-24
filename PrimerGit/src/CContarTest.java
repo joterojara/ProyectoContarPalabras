@@ -9,7 +9,7 @@ class CContarTest {
 		CContar contarTest = null;
 		
 		assertEquals(4,contarTest.contarNumeroPalabras("hola hola hola hola"));
-		
+		assertEquals(5,contarTest.contarCaracteresTotal("plato"));
 	}
 
 }
