@@ -10,6 +10,7 @@ class CContarTest {
 		
 		assertEquals(4,contarTest.contarNumeroPalabras("hola hola hola hola"));
 		assertEquals(5,contarTest.contarCaracteresTotal("plato"));
+
 	}
 
 }
