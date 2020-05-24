@@ -1,9 +1,12 @@
-//Jesus Otero Jara
 
 
 
 import java.util.Scanner;
-
+/**
+ * 
+ * @author Jesus Otero
+ *
+ */
 public class CMain {
 	static CContar contar;
 	static CMostrar mostrar;
